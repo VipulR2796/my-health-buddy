@@ -49,7 +49,3 @@ The main objective of this project is to let the user know what type of nutritio
 ### Nutrition Admin Home
 <img width="761" alt="image (4)" src="https://user-images.githubusercontent.com/114703122/206963407-33878b2e-a021-4719-a678-0c49afcc06b8.png">
 
-Contributors:
-1. Naman Gupta 
-2. Vipul Rajderkar
-3. Parvati Sohani
